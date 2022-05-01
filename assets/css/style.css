@@ -171,7 +171,7 @@ p {
     .section-title .sub-title {
       font-size: 16px; } }
 .section-title .title {
-  font-size: 32px;
+  font-size: 24px;
   padding-top: 10px; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .section-title .title {
